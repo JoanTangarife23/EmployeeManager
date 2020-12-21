@@ -1,0 +1,15 @@
+input {
+    width: 250px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #def;
+    border-radius: 5px;
+    border: 1px solid #39c;
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color:#1976d2;
+    color: white;
+  }

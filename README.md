@@ -1,2 +1,0 @@
-# EmployeeManager
-Administrador de empleados
